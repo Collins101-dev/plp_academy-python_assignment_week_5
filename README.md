@@ -47,7 +47,7 @@ plp_academy-python_assignment_week_5/
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Collins101-dev/plp_academy-python_assignment_week_5.git
    cd plp_academy-python_assignment_week_5
    ```
 
